@@ -10,4 +10,4 @@ Our aim is to create a description for the images specific to the cricket domain
 
 The proposed model is composed of two main parts : 
  i.    Convolutional Neural Network (CNN) 
- ii.   Recurrent Neural Network (RNN)
+ ii.   Recurrent Neural Network (RNN). 
